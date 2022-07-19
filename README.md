@@ -1,5 +1,9 @@
 # How to use
 
+## Prerequisites
+
+- Requires golang `v1.18`, if not you can use one of the cx-containers to build the binary
+
 ## Run the build script
 
 - `./build.sh`
