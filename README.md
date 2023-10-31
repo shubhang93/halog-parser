@@ -1,4 +1,5 @@
-# How to use
+## What does it do
+This tool groups the API calls by backend, it parses the output of `halog` 
 
 ## Prerequisites
 
